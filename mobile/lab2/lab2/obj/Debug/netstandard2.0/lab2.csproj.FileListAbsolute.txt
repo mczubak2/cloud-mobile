@@ -1,0 +1,13 @@
+C:\Users\czucz\Documents\code\projects\studies\cloud&mobile\cloud-mobile\mobile\lab2\lab2\lab2\bin\Debug\netstandard2.0\lab2.deps.json
+C:\Users\czucz\Documents\code\projects\studies\cloud&mobile\cloud-mobile\mobile\lab2\lab2\lab2\bin\Debug\netstandard2.0\lab2.dll
+C:\Users\czucz\Documents\code\projects\studies\cloud&mobile\cloud-mobile\mobile\lab2\lab2\lab2\bin\Debug\netstandard2.0\ref\lab2.dll
+C:\Users\czucz\Documents\code\projects\studies\cloud&mobile\cloud-mobile\mobile\lab2\lab2\lab2\bin\Debug\netstandard2.0\lab2.pdb
+C:\Users\czucz\Documents\code\projects\studies\cloud&mobile\cloud-mobile\mobile\lab2\lab2\lab2\obj\Debug\netstandard2.0\lab2.csprojAssemblyReference.cache
+C:\Users\czucz\Documents\code\projects\studies\cloud&mobile\cloud-mobile\mobile\lab2\lab2\lab2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\czucz\Documents\code\projects\studies\cloud&mobile\cloud-mobile\mobile\lab2\lab2\lab2\obj\Debug\netstandard2.0\lab2.AssemblyInfoInputs.cache
+C:\Users\czucz\Documents\code\projects\studies\cloud&mobile\cloud-mobile\mobile\lab2\lab2\lab2\obj\Debug\netstandard2.0\lab2.AssemblyInfo.cs
+C:\Users\czucz\Documents\code\projects\studies\cloud&mobile\cloud-mobile\mobile\lab2\lab2\lab2\obj\Debug\netstandard2.0\lab2.csproj.CoreCompileInputs.cache
+C:\Users\czucz\Documents\code\projects\studies\cloud&mobile\cloud-mobile\mobile\lab2\lab2\lab2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\czucz\Documents\code\projects\studies\cloud&mobile\cloud-mobile\mobile\lab2\lab2\lab2\obj\Debug\netstandard2.0\lab2.dll
+C:\Users\czucz\Documents\code\projects\studies\cloud&mobile\cloud-mobile\mobile\lab2\lab2\lab2\obj\Debug\netstandard2.0\ref\lab2.dll
+C:\Users\czucz\Documents\code\projects\studies\cloud&mobile\cloud-mobile\mobile\lab2\lab2\lab2\obj\Debug\netstandard2.0\lab2.pdb

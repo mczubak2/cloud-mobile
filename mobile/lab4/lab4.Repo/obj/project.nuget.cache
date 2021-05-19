@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EwCK2XTy76yYGhmxrxf9kEZanM0sZOo4NBAWBrspi99nk9w1xsWoxSlIQ7Mcd4sOLjQhrwb10TEoibddpFBSUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\czucz\\source\\repos\\lab4.Repo\\lab4.Repo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\czucz\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512",
+    "C:\\Users\\czucz\\.nuget\\packages\\restease\\1.5.4\\restease.1.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

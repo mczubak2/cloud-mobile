@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3lgm5sfcY/1Lnb7cfnr93My5QOiaVangEz0eDjlmpa/Z0XlUZ1Nleo/ysguIoTiNpqGlV+fj6EfW65agMRXmqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\czucz\\Documents\\code\\projects\\studies\\cloud&mobile\\cloud-mobile\\mobile\\lab3\\lab3.Repo\\lab3.Repo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\czucz\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\czucz\\.nuget\\packages\\restease\\1.5.4\\restease.1.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
